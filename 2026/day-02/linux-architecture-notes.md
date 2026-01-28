@@ -43,13 +43,13 @@ Zombie :
     Process is dead but entry remains
 
 List 5 commands you would use daily
-# ls –ltr
-# df –hT
-# top
-# ps –ef 
-# netstat –tulnp
-# ping
-# nslookup
+#ls –ltr
+#df –hT
+#top
+#ps –ef 
+#netstat –tulnp
+#ping
+#nslookup
 
 •	What systemd does and why it matters
 	SystemD I is runs in user space as PID 1
